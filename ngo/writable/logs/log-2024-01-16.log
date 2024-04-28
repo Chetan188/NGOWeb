@@ -1,0 +1,1584 @@
+INFO - 2024-01-16 02:22:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 02:22:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 02:22:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 02:28:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:28:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-16 02:28:19 --> ErrorException: Cannot use empty array elements in arrays
+in APPPATH\Models\Pg.php on line 12.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-01-16 02:28:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:28:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:28:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:28:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:29:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:29:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:29:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:29:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:29:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:29:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:31:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:31:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:31:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:31:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:33:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:33:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:33:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:33:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:33:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:33:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:33:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:33:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:34:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:34:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:34:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:34:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:34:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:34:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:35:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:35:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:35:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:35:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:35:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:35:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:35:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:35:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:36:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:36:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:37:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:37:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:38:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:38:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:40:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:40:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:42:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:42:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:42:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:42:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:42:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-16 02:42:55 --> CodeIgniter\HTTP\Exceptions\HTTPException: The route for "pgs/4/edit" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 62.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(62): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('pgs/4/edit')
+ 2 SYSTEMPATH\Common.php(864): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Dashboard.php(38): redirect('pgs/4/edit')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Dashboard->remove_photo('1', '4')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:44:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:44:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:44:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:44:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:47:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:47:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:47:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:47:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:48:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:48:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:51:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:51:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:51:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:51:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-16 02:51:12 --> CodeIgniter\Database\Exceptions\DatabaseException: insertBatch() has no data.
+in SYSTEMPATH\Database\BaseBuilder.php on line 1769.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2187): CodeIgniter\Database\BaseBuilder->batchExecute('_insertBatch', 100)
+ 2 SYSTEMPATH\Model.php(360): CodeIgniter\Database\BaseBuilder->insertBatch([], null, 100)
+ 3 SYSTEMPATH\BaseModel.php(919): CodeIgniter\Model->doInsertBatch([], null, 100, false)
+ 4 APPPATH\Controllers\Pgs.php(130): CodeIgniter\BaseModel->insertBatch([])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pgs->update('4')
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pgs))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:51:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:51:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:51:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:51:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:51:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:51:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:51:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:51:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:51:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:51:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:51:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:51:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:51:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:51:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:52:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:52:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:52:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:52:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:52:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:52:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:52:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:52:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:52:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:52:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:52:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:53:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 02:53:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 02:53:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 02:56:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:56:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:56:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:56:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:57:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:57:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:57:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:57:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:58:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:58:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:58:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:58:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:59:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 02:59:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 02:59:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:00:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:00:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:00:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:00:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:00:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:00:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:00:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:00:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:00:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:00:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:00:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:00:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:01:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:01:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:01:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:01:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:03:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:03:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:03:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:03:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:03:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:04:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:04:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:04:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:05:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:05:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:06:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:06:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:06:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:06:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:06:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:06:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:06:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:06:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:06:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:06:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:07:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:07:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:07:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:07:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:07:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:07:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:07:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:07:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:08:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:08:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:08:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:08:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:08:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:08:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:08:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:08:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:08:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:08:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:12:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:12:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:12:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:12:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:12:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:12:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:12:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:12:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:13:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:13:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:13:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:13:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:13:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:13:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:14:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:14:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:15:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:15:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:15:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:15:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:16:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:16:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:16:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:16:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:16:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:16:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:16:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:17:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:17:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:18:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:18:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:18:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:18:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:19:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:19:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:19:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:19:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:19:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:19:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:20:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:20:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:20:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:20:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:20:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:20:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:20:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:20:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:20:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:21:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:21:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:21:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:21:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:21:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:21:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:21:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:21:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:21:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:21:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:21:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:21:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:21:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:21:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:21:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:21:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:22:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 03:22:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 03:22:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 03:22:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 03:22:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 03:23:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 03:23:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 03:31:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:31:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-16 03:31:04 --> Error: Class "App\Controllers\Pg" not found
+in APPPATH\Controllers\Messes.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Messes->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messes))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:31:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:31:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:37:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:37:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-16 03:37:12 --> ErrorException: Undefined variable $pg
+in APPPATH\Views\admin\mess\add_edit.php on line 4.
+ 1 APPPATH\Views\admin\mess\add_edit.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pg', 'C:\\xampp\\htdocs\\pg\\app\\Views\\admin\\mess\\add_edit.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\pg\\app\\Views\\admin\\mess\\add_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/mess/add_edit', [], true)
+ 5 APPPATH\Controllers\Messes.php(35): view('admin/mess/add_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Messes->new()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messes))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:37:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:37:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:37:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:37:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:37:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:37:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:39:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:39:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:40:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:40:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-16 03:40:35 --> CodeIgniter\Database\Exceptions\DatabaseException: insertBatch() has no data.
+in SYSTEMPATH\Database\BaseBuilder.php on line 1769.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2187): CodeIgniter\Database\BaseBuilder->batchExecute('_insertBatch', 100)
+ 2 SYSTEMPATH\Model.php(360): CodeIgniter\Database\BaseBuilder->insertBatch([], null, 100)
+ 3 SYSTEMPATH\BaseModel.php(919): CodeIgniter\Model->doInsertBatch([], null, 100, false)
+ 4 APPPATH\Controllers\Messes.php(75): CodeIgniter\BaseModel->insertBatch([])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Messes->create()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messes))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:41:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:41:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:41:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:41:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:41:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:41:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:41:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:41:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:41:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:41:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:41:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:41:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-16 03:41:26 --> Error: Class "App\Controllers\Pg" not found
+in APPPATH\Controllers\Messes.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Messes->edit('1')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messes))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:41:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:41:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-16 03:41:36 --> ErrorException: Undefined variable $pg
+in APPPATH\Views\admin\mess\add_edit.php on line 6.
+ 1 APPPATH\Views\admin\mess\add_edit.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pg', 'C:\\xampp\\htdocs\\pg\\app\\Views\\admin\\mess\\add_edit.php', 6)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\pg\\app\\Views\\admin\\mess\\add_edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/mess/add_edit', [], true)
+ 5 APPPATH\Controllers\Messes.php(92): view('admin/mess/add_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Messes->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messes))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:42:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:42:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:42:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:42:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:42:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:42:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:42:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:43:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:43:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:43:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:43:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:43:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:43:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:43:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:43:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:43:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-16 03:43:39 --> ErrorException: Undefined variable $pgs
+in APPPATH\Views\admin\mess\pending_list.php on line 37.
+ 1 APPPATH\Views\admin\mess\pending_list.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pgs', 'C:\\xampp\\htdocs\\pg\\app\\Views\\admin\\mess\\pending_list.php', 37)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\pg\\app\\Views\\admin\\mess\\pending_list.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/mess/pending_list', [], true)
+ 5 APPPATH\Controllers\Messes.php(158): view('admin/mess/pending_list', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Messes->pending_pgs()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messes))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:44:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:44:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:44:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-16 03:44:33 --> ErrorException: Undefined variable $pg
+in APPPATH\Views\admin\mess\view.php on line 17.
+ 1 APPPATH\Views\admin\mess\view.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pg', 'C:\\xampp\\htdocs\\pg\\app\\Views\\admin\\mess\\view.php', 17)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\pg\\app\\Views\\admin\\mess\\view.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/mess/view', [], true)
+ 5 APPPATH\Controllers\Messes.php(187): view('admin/mess/view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Messes->pg_view('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messes))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:45:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:45:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-16 03:45:09 --> ErrorException: Undefined variable $pg
+in APPPATH\Views\admin\mess\view.php on line 70.
+ 1 APPPATH\Views\admin\mess\view.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pg', 'C:\\xampp\\htdocs\\pg\\app\\Views\\admin\\mess\\view.php', 70)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\pg\\app\\Views\\admin\\mess\\view.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/mess/view', [], true)
+ 5 APPPATH\Controllers\Messes.php(187): view('admin/mess/view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Messes->pg_view('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messes))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:45:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:45:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:45:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:45:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:45:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:45:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:45:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:45:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:46:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:46:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:46:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:46:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:46:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:46:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:46:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:46:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:46:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 03:46:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 03:46:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 03:46:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 05:23:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 05:24:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 05:24:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 05:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:24:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:28:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:28:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:30:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:30:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-16 05:30:09 --> ErrorException: Undefined variable $id
+in APPPATH\Controllers\Dashboard.php on line 52.
+ 1 APPPATH\Controllers\Dashboard.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\pg\\app\\Controllers\\Dashboard.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Dashboard->profile()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:30:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:30:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:32:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:32:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-16 05:32:48 --> ErrorException: Undefined variable $action
+in APPPATH\Views\admin\profile.php on line 16.
+ 1 APPPATH\Views\admin\profile.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $action', 'C:\\xampp\\htdocs\\pg\\app\\Views\\admin\\profile.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\pg\\app\\Views\\admin\\profile.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/profile', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(53): view('admin/profile', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Dashboard->profile()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:33:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:33:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-16 05:33:30 --> ErrorException: Undefined variable $name
+in APPPATH\Views\admin\profile.php on line 20.
+ 1 APPPATH\Views\admin\profile.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $name', 'C:\\xampp\\htdocs\\pg\\app\\Views\\admin\\profile.php', 20)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\pg\\app\\Views\\admin\\profile.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/profile', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(53): view('admin/profile', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Dashboard->profile()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:33:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:33:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:34:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:34:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:34:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:34:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:35:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:35:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:36:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:36:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:36:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:36:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:37:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:37:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:37:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:37:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:37:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:37:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:37:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:37:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:37:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:37:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:37:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:37:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:37:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:37:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:37:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:37:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:37:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:37:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:37:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:37:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:37:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:37:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:40:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:40:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:43:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:43:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:43:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:43:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:43:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:43:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:43:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:43:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:44:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:44:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:47:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:47:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:47:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:47:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:47:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:47:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-16 05:47:16 --> ErrorException: Undefined variable $qrcode
+in APPPATH\Controllers\Dashboard.php on line 74.
+ 1 APPPATH\Controllers\Dashboard.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $qrcode', 'C:\\xampp\\htdocs\\pg\\app\\Controllers\\Dashboard.php', 74)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Dashboard->submit_profile()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:47:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:47:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:47:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:47:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:47:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:47:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:48:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:48:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:48:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:48:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:48:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:48:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:48:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:48:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:48:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:48:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:48:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:48:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:48:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:48:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:48:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:48:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:48:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:48:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:49:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 05:49:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 05:49:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 05:50:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 05:50:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:50:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:50:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:50:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:51:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:51:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:52:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:52:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:54:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:54:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-16 05:54:20 --> ErrorException: Undefined variable $messes
+in APPPATH\Views\admin\pg\approved_pgs.php on line 37.
+ 1 APPPATH\Views\admin\pg\approved_pgs.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $messes', 'C:\\xampp\\htdocs\\pg\\app\\Views\\admin\\pg\\approved_pgs.php', 37)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\pg\\app\\Views\\admin\\pg\\approved_pgs.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/pg/approved_pgs', [], true)
+ 5 APPPATH\Controllers\Pgs.php(195): view('admin/pg/approved_pgs', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pgs->pg_list()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pgs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:54:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:54:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:55:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:55:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:56:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:56:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:57:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:57:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:57:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:57:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:58:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:58:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 05:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 05:58:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:03:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:03:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:04:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:04:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:04:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:05:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:05:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:05:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:05:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:06:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:06:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:06:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:07:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:07:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:08:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:08:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:08:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:08:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:08:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:08:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:08:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:09:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:09:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:10:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:10:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:12:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:12:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:12:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:12:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:12:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:12:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:13:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:13:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:13:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:13:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:13:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:13:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:14:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:14:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:15:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:15:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:15:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:15:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:27:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:27:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-16 06:28:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 06:28:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()

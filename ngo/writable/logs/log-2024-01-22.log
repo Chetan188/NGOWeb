@@ -1,0 +1,890 @@
+INFO - 2024-01-22 03:12:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:14:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:15:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:15:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:17:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:17:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:18:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:18:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:18:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:20:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:21:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:22:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:22:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-01-22 03:22:15 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\pg\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\pg\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'pg', 3306, '', 0)
+#1 C:\xampp\htdocs\pg\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\pg\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\pg\system\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\pg\system\Model.php(270): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\pg\system\BaseModel.php(676): CodeIgniter\Model->doFirst()
+#6 C:\xampp\htdocs\pg\app\Controllers\Auth.php(61): CodeIgniter\BaseModel->first()
+#7 C:\xampp\htdocs\pg\system\CodeIgniter.php(941): App\Controllers\Auth->submitSignIn()
+#8 C:\xampp\htdocs\pg\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#9 C:\xampp\htdocs\pg\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\pg\index.php(80): CodeIgniter\CodeIgniter->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\pg\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\pg\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\pg\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\pg\system\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\pg\system\Model.php(270): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\pg\system\BaseModel.php(676): CodeIgniter\Model->doFirst()
+#5 C:\xampp\htdocs\pg\app\Controllers\Auth.php(61): CodeIgniter\BaseModel->first()
+#6 C:\xampp\htdocs\pg\system\CodeIgniter.php(941): App\Controllers\Auth->submitSignIn()
+#7 C:\xampp\htdocs\pg\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\pg\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\pg\index.php(80): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-01-22 03:22:16 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `users`
+WHERE `email` = :email:
+AND `password` = :password:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH\Model.php(270): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\Auth.php(61): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Auth->submitSignIn()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:22:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:22:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:22:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:22:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:22:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:22:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:23:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:23:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:23:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:23:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:23:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:23:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:23:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:23:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:23:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:23:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:24:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:24:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:24:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:24:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:24:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:25:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:25:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:25:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:25:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:25:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:25:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:25:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:25:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:25:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:25:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:25:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:25:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:25:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:25:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:29:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:29:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:35:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:35:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:36:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:36:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-22 03:36:23 --> mysqli_sql_exception: Unknown column 'pb.rate' in 'field list' in C:\xampp\htdocs\pg\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\pg\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `f`.`id`...', 0)
+#1 C:\xampp\htdocs\pg\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `f`.`id`...')
+#2 C:\xampp\htdocs\pg\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `f`.`id`...')
+#3 C:\xampp\htdocs\pg\system\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `f`.`id`...', Array, false)
+#4 C:\xampp\htdocs\pg\app\Controllers\Pgs.php(419): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\pg\system\CodeIgniter.php(941): App\Controllers\Pgs->pg_feedbacks()
+#6 C:\xampp\htdocs\pg\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pgs))
+#7 C:\xampp\htdocs\pg\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pg\index.php(80): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-22 03:36:23 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'pb.rate' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `f`.`id`, `pb`.`rate`, `pb`.`comment`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_id` IN :f.pg_id:
+AND `f`.`feedback_type` = :f.feedback_type:', [...], false)
+ 2 APPPATH\Controllers\Pgs.php(419): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pgs->pg_feedbacks()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pgs))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-22 03:36:23 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'pb.rate' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `f`.`id`, `pb`.`rate`, `pb`.`comment`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_id` IN (\'5\')
+AND `f`.`feedback_type` = 1')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `f`.`id`, `pb`.`rate`, `pb`.`comment`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_id` IN (\'5\')
+AND `f`.`feedback_type` = 1')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `f`.`id`, `pb`.`rate`, `pb`.`comment`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_id` IN :f.pg_id:
+AND `f`.`feedback_type` = :f.feedback_type:', [...], false)
+ 4 APPPATH\Controllers\Pgs.php(419): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pgs->pg_feedbacks()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pgs))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-22 03:36:23 --> [Caused by] mysqli_sql_exception: Unknown column 'pb.rate' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `f`.`id`, `pb`.`rate`, `pb`.`comment`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_id` IN (\'5\')
+AND `f`.`feedback_type` = 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `f`.`id`, `pb`.`rate`, `pb`.`comment`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_id` IN (\'5\')
+AND `f`.`feedback_type` = 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `f`.`id`, `pb`.`rate`, `pb`.`comment`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_id` IN (\'5\')
+AND `f`.`feedback_type` = 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `f`.`id`, `pb`.`rate`, `pb`.`comment`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_id` IN :f.pg_id:
+AND `f`.`feedback_type` = :f.feedback_type:', [...], false)
+ 5 APPPATH\Controllers\Pgs.php(419): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pgs->pg_feedbacks()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pgs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:36:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:36:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-22 03:36:33 --> mysqli_sql_exception: Unknown column 'f.pg_id' in 'where clause' in C:\xampp\htdocs\pg\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\pg\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `f`.`id`...', 0)
+#1 C:\xampp\htdocs\pg\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `f`.`id`...')
+#2 C:\xampp\htdocs\pg\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `f`.`id`...')
+#3 C:\xampp\htdocs\pg\system\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `f`.`id`...', Array, false)
+#4 C:\xampp\htdocs\pg\app\Controllers\Pgs.php(419): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\pg\system\CodeIgniter.php(941): App\Controllers\Pgs->pg_feedbacks()
+#6 C:\xampp\htdocs\pg\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pgs))
+#7 C:\xampp\htdocs\pg\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pg\index.php(80): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-22 03:36:33 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'f.pg_id' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `f`.`id`, `f`.`rate`, `f`.`comment`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_id` IN :f.pg_id:
+AND `f`.`feedback_type` = :f.feedback_type:', [...], false)
+ 2 APPPATH\Controllers\Pgs.php(419): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pgs->pg_feedbacks()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pgs))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-22 03:36:33 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'f.pg_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `f`.`id`, `f`.`rate`, `f`.`comment`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_id` IN (\'5\')
+AND `f`.`feedback_type` = 1')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `f`.`id`, `f`.`rate`, `f`.`comment`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_id` IN (\'5\')
+AND `f`.`feedback_type` = 1')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `f`.`id`, `f`.`rate`, `f`.`comment`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_id` IN :f.pg_id:
+AND `f`.`feedback_type` = :f.feedback_type:', [...], false)
+ 4 APPPATH\Controllers\Pgs.php(419): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pgs->pg_feedbacks()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pgs))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-22 03:36:33 --> [Caused by] mysqli_sql_exception: Unknown column 'f.pg_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `f`.`id`, `f`.`rate`, `f`.`comment`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_id` IN (\'5\')
+AND `f`.`feedback_type` = 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `f`.`id`, `f`.`rate`, `f`.`comment`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_id` IN (\'5\')
+AND `f`.`feedback_type` = 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `f`.`id`, `f`.`rate`, `f`.`comment`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_id` IN (\'5\')
+AND `f`.`feedback_type` = 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `f`.`id`, `f`.`rate`, `f`.`comment`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_id` IN :f.pg_id:
+AND `f`.`feedback_type` = :f.feedback_type:', [...], false)
+ 5 APPPATH\Controllers\Pgs.php(419): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pgs->pg_feedbacks()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pgs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:36:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:36:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:37:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:37:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-22 03:37:03 --> mysqli_sql_exception: Unknown column 'u.commented_by' in 'field list' in C:\xampp\htdocs\pg\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\pg\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `f`.`id`...', 0)
+#1 C:\xampp\htdocs\pg\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `f`.`id`...')
+#2 C:\xampp\htdocs\pg\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `f`.`id`...')
+#3 C:\xampp\htdocs\pg\system\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `f`.`id`...', Array, false)
+#4 C:\xampp\htdocs\pg\app\Controllers\Pgs.php(419): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\pg\system\CodeIgniter.php(941): App\Controllers\Pgs->pg_feedbacks()
+#6 C:\xampp\htdocs\pg\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pgs))
+#7 C:\xampp\htdocs\pg\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pg\index.php(80): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-22 03:37:03 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'u.commented_by' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `f`.`id`, `f`.`rate`, `f`.`comment`, `u`.`commented_by`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_mess_id` IN :f.pg_mess_id:
+AND `f`.`feedback_type` = :f.feedback_type:', [...], false)
+ 2 APPPATH\Controllers\Pgs.php(419): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pgs->pg_feedbacks()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pgs))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-22 03:37:03 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'u.commented_by' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `f`.`id`, `f`.`rate`, `f`.`comment`, `u`.`commented_by`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_mess_id` IN (\'5\')
+AND `f`.`feedback_type` = 1')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `f`.`id`, `f`.`rate`, `f`.`comment`, `u`.`commented_by`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_mess_id` IN (\'5\')
+AND `f`.`feedback_type` = 1')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `f`.`id`, `f`.`rate`, `f`.`comment`, `u`.`commented_by`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_mess_id` IN :f.pg_mess_id:
+AND `f`.`feedback_type` = :f.feedback_type:', [...], false)
+ 4 APPPATH\Controllers\Pgs.php(419): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pgs->pg_feedbacks()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pgs))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-22 03:37:03 --> [Caused by] mysqli_sql_exception: Unknown column 'u.commented_by' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `f`.`id`, `f`.`rate`, `f`.`comment`, `u`.`commented_by`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_mess_id` IN (\'5\')
+AND `f`.`feedback_type` = 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `f`.`id`, `f`.`rate`, `f`.`comment`, `u`.`commented_by`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_mess_id` IN (\'5\')
+AND `f`.`feedback_type` = 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `f`.`id`, `f`.`rate`, `f`.`comment`, `u`.`commented_by`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_mess_id` IN (\'5\')
+AND `f`.`feedback_type` = 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT `f`.`id`, `f`.`rate`, `f`.`comment`, `u`.`commented_by`
+FROM `feedbacks` `f`
+JOIN `pgs` `p` ON `p`.`id`=`f`.`pg_mess_id`
+JOIN `users` `u` ON `u`.`id`=`f`.`created_by`
+WHERE `f`.`pg_mess_id` IN :f.pg_mess_id:
+AND `f`.`feedback_type` = :f.feedback_type:', [...], false)
+ 5 APPPATH\Controllers\Pgs.php(419): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pgs->pg_feedbacks()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pgs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:37:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:37:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:37:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:37:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:37:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:38:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:38:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-22 03:38:19 --> ErrorException: Undefined variable $bookings
+in APPPATH\Views\admin\pg\feedback.php on line 38.
+ 1 APPPATH\Views\admin\pg\feedback.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $bookings', 'C:\\xampp\\htdocs\\pg\\app\\Views\\admin\\pg\\feedback.php', 38)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\pg\\app\\Views\\admin\\pg\\feedback.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/pg/feedback', [], true)
+ 5 APPPATH\Controllers\Pgs.php(421): view('admin/pg/feedback', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pgs->pg_feedbacks()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pgs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:39:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:39:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:40:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:40:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:40:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:40:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:40:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:40:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:40:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:40:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:41:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:41:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:41:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:44:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:44:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:44:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:44:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:45:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:45:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:45:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:45:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:46:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:46:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:46:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:46:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:46:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:46:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:46:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:46:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:46:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:46:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:46:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:46:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:46:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:46:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:46:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:46:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:46:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:46:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:46:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:46:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:47:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 03:47:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:47:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:48:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:48:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-22 03:48:53 --> Error: Class "App\Controllers\Pg" not found
+in APPPATH\Controllers\Messes.php on line 421.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Messes->mess_feedbacks()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messes))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 03:49:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 03:49:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 04:49:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:49:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:51:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:52:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:52:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:53:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:53:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:53:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:54:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:54:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:54:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:54:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:54:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:54:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:55:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:55:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:55:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:55:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:55:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:56:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:56:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 04:56:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 04:56:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 04:56:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 04:59:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:59:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:59:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:59:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:59:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 04:59:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 04:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:59:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:59:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 04:59:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 04:59:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$userdata is deprecated in APPPATH\Controllers\Dashboard.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:00:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:00:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:00:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:00:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:01:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:01:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:01:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:01:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:03:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:03:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:06:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:06:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-22 05:06:11 --> BadMethodCallException: Call to undefined method App\Models\Pg_booking::select_sum
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Pgs.php(215): CodeIgniter\Model->__call('select_sum', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pgs->pg_list()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pgs))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:06:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:06:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-22 05:06:47 --> mysqli_sql_exception: Unknown column 'rate' in 'field list' in C:\xampp\htdocs\pg\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\pg\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT SUM(`rat...', 0)
+#1 C:\xampp\htdocs\pg\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`rat...')
+#2 C:\xampp\htdocs\pg\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`rat...')
+#3 C:\xampp\htdocs\pg\system\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`rat...', Array, false)
+#4 C:\xampp\htdocs\pg\system\Model.php(872): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\pg\app\Controllers\Pgs.php(215): CodeIgniter\Model->__call('get', Array)
+#6 C:\xampp\htdocs\pg\system\CodeIgniter.php(941): App\Controllers\Pgs->pg_list()
+#7 C:\xampp\htdocs\pg\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pgs))
+#8 C:\xampp\htdocs\pg\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\pg\index.php(80): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-01-22 05:06:47 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'rate' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`rate`) AS `rate`
+FROM `pg_bookings`
+WHERE `pg_mess_id` = :pg_mess_id:
+AND `feedback_type` = :feedback_type:', [...], false)
+ 2 SYSTEMPATH\Model.php(872): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Pgs.php(215): CodeIgniter\Model->__call('get', [])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pgs->pg_list()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pgs))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-22 05:06:47 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'rate' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`rate`) AS `rate`
+FROM `pg_bookings`
+WHERE `pg_mess_id` = \'9\'
+AND `feedback_type` = 1')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`rate`) AS `rate`
+FROM `pg_bookings`
+WHERE `pg_mess_id` = \'9\'
+AND `feedback_type` = 1')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`rate`) AS `rate`
+FROM `pg_bookings`
+WHERE `pg_mess_id` = :pg_mess_id:
+AND `feedback_type` = :feedback_type:', [...], false)
+ 4 SYSTEMPATH\Model.php(872): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Pgs.php(215): CodeIgniter\Model->__call('get', [])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pgs->pg_list()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pgs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-22 05:06:47 --> [Caused by] mysqli_sql_exception: Unknown column 'rate' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT SUM(`rate`) AS `rate`
+FROM `pg_bookings`
+WHERE `pg_mess_id` = \'9\'
+AND `feedback_type` = 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`rate`) AS `rate`
+FROM `pg_bookings`
+WHERE `pg_mess_id` = \'9\'
+AND `feedback_type` = 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`rate`) AS `rate`
+FROM `pg_bookings`
+WHERE `pg_mess_id` = \'9\'
+AND `feedback_type` = 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1613): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`rate`) AS `rate`
+FROM `pg_bookings`
+WHERE `pg_mess_id` = :pg_mess_id:
+AND `feedback_type` = :feedback_type:', [...], false)
+ 5 SYSTEMPATH\Model.php(872): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Pgs.php(215): CodeIgniter\Model->__call('get', [])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pgs->pg_list()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pgs))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:07:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:07:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-22 05:07:09 --> ErrorException: Array to string conversion
+in APPPATH\Controllers\Pgs.php on line 216.
+ 1 APPPATH\Controllers\Pgs.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\pg\\app\\Controllers\\Pgs.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pgs->pg_list()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pgs))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:07:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:07:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:12:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:12:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:23:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:23:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:25:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:25:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:26:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:26:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-22 05:26:50 --> ErrorException: Undefined variable $arr
+in APPPATH\Controllers\Pgs.php on line 225.
+ 1 APPPATH\Controllers\Pgs.php(225): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $arr', 'C:\\xampp\\htdocs\\pg\\app\\Controllers\\Pgs.php', 225)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pgs->pg_list()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pgs))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:27:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:27:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:27:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:27:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:28:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:28:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:28:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:28:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:29:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:29:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:29:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:29:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:31:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:31:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pgs::$userdata is deprecated in APPPATH\Controllers\Pgs.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Pgs->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:31:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:31:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:31:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:31:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:32:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:32:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-22 05:33:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-22 05:33:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Messes::$userdata is deprecated in APPPATH\Controllers\Messes.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Messes->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(80): CodeIgniter\CodeIgniter->run()
